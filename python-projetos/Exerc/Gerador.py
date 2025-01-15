@@ -2,7 +2,7 @@ import random
 import string
 
 def gerador_senha():
-    while True:pip install -r requirements.txt
+    while True:
 
         # Solicita ao usuário o tamanho da senha
         try:

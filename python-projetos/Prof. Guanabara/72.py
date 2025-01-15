@@ -14,3 +14,6 @@ while True:
             print(tupla[num1])
     except ValueError:
         print('Por favor tente novamente')
+
+
+# Teste do Try e ValueError
