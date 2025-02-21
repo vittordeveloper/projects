@@ -1,6 +1,7 @@
-#  Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-n1 = int(input('Diga um número inteiro: '))
+var = input('Diga qualquer coisa: ')
+print('Este tipo primitivo de valor é', type(var))
+print('Ele tem somente espaços?: ', var.isspace())
+print('É um número?: ', var.isnumeric())
 
-
-print(f'Analisando seu número o {n1}, o seu antecessor é o {n1 - 1}, e seu sucessor é o {n1 + 1}.')

@@ -1,6 +1,6 @@
-# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+#  Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 
-n1 = int(input('Diga um número qualquer: '))
+n1 = int(input('Diga um número inteiro: '))
 
-print(f'A raiz quadrada de {n1} é {n1 ** 0.5:.0f}')
-print(f'Seu dobro é {n1 * 2}, e seu triplo é igual a {n1 * 3}')
+
+print(f'Analisando seu número o {n1}, o seu antecessor é o {n1 - 1}, e seu sucessor é o {n1 + 1}.')

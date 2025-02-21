@@ -1,6 +1,6 @@
-# Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
-nota1 = float(input('Primeira Nota?: '))
-nota2 = float(input('Segunda Nota?: '))
+n1 = int(input('Diga um número qualquer: '))
 
-print(f'A média das notas é igual a {(nota1 + nota2) / 2}')
+print(f'A raiz quadrada de {n1} é {n1 ** 0.5:.0f}')
+print(f'Seu dobro é {n1 * 2}, e seu triplo é igual a {n1 * 3}')
