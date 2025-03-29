@@ -28,5 +28,5 @@ while True:
     if novo == 'S':
         continue
     else:
-        print('Programa encerrado') 
+        print('Programa encerrado!') 
         break

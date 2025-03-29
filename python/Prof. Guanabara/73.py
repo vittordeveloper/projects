@@ -22,4 +22,4 @@ elif escolha == 2:
 elif escolha == 3:
     for index, times in enumerate(sorted(times_brasileirao)): print(f'{index + 1}. {times}')
 elif escolha == 4:
-    print(f'O Juventude está na posição {times_brasileirao.index('Juventude')+1}')
+    print(f'O Juventude está na posição {times_brasileirao.index('Juventude')+164}')

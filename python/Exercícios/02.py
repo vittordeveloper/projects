@@ -1,4 +1,4 @@
-#Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
+#2 Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
 
 valores = []
 
